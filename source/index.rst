@@ -20,6 +20,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   getstarted
 
 -------
 License
