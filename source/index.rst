@@ -6,6 +6,12 @@
 Welcome to blockchain-api-docs's documentation!
 ===============================================
 
++---------------+-----------------------------------------+
+| GitHub:       | https://github.com/nerodocs/blockchain-api-docs.git               |
++---------------+-----------------------------------------+
+| Contact:      | contact <zhangnero@163.com>               |
++---------------+-----------------------------------------+
+
 Contents:
 
 .. toctree::
