@@ -7,15 +7,15 @@ Welcome to blockchain-api-docs's documentation!
 ===============================================
 
 Contents:
+
 .. toctree::
    :maxdepth: 2
-    
+
    hello
 
 
-Indices and tables
-==================
+-------
+License
+-------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Apache License Version 2.0
