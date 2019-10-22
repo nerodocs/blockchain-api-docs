@@ -5,13 +5,7 @@
 
 Welcome to blockchain-api-docs's documentation!
 =======================================================
-
-Basic
--------
 Introduce info.
-
-Contact
-------------
 
 +---------+---------------------------------------------------+
 |GitHub:  |https://github.com/nerodocs/blockchain-api-docs.git|
@@ -19,13 +13,11 @@ Contact
 |Contact: | contact <zhangnero@163.com>                       |
 +---------+---------------------------------------------------+
 
-Contents
-----------
 
 .. toctree::
    :maxdepth: 2
 
-   hello
+   zcash
 
 License
 -------
